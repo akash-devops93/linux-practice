@@ -19,3 +19,4 @@ This repository contains my daily Linux practice tasks, commands, and hands-on l
 
 ## 🎯 Goal
 To become job-ready in Linux, AWS, and DevOps by consistent daily practice.
+Maintained by Akash Kumar
