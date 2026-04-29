@@ -1,0 +1,3 @@
+Day 2 Linux Practice
+Practiced file commands and navigation
+oky done 
