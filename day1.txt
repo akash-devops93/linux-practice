@@ -1,2 +1,3 @@
 Day 1 Linux Practice
 Commands used: mkdir, ls, cd, pwd, touch
+Revised Day 1 commands
