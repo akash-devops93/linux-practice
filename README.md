@@ -1,29 +1,12 @@
-# Linux Practice 🚀
+Linux Practice 🚀
 
-This repository contains my daily Linux practice tasks, commands, and hands-on labs.
+This repository contains my daily Linux practice tasks and commands.
 
----
+📅 Practice Logs
 
-## 📅 Day 1
-- Created directories and files  
-- Used commands like `mkdir`, `ls`, `cd`, `pwd`  
-- Practiced file creation using `touch`  
-- Learned basic navigation  
+Day 1: Basic Linux commands (mkdir, ls, cd, pwd, touch)
+Day 2: File handling and navigation
+Day 3: File permissions and navigation
 
----
-
-## 🔧 Commands Used
-- `mkdir`
-- `ls`
-- `cd`
-- `pwd`
-- `touch`
-
----
-
-## 🎯 Goal
-To become job-ready in Linux, AWS, and DevOps by consistent daily practice.
-
----
-
-👨‍💻 Maintained by **Akash Kumar**
+🎯 Goal:
+To become job-ready in Linux, AWS, and DevOps
